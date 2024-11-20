@@ -1,4 +1,7 @@
-*{margin: 0px;}
+* {
+    margin: 0px;
+}
+
 body {
     background-color: #272624;
     color: #FFFFFF;
@@ -39,11 +42,18 @@ body {
     font-size: 25px;
 }
  
+#gallery_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 .gallery {
     padding-top: 4rem;
     width: 20%;
-    margin: 2%;
-    display: inline-block;
+    margin: 10px;
+    min-width: 300px;
 }
 
 .gallery img {
