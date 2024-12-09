@@ -1,0 +1,5 @@
+reflectie:
+
+als eerste zou ik een planning hebben moeten maken wat ik niet heb gedaan, de volgende keer wil ik dit wel doen.
+ten twede zou ik meer responsiveness willen toevoegen als je van device verandert.
+en als laatste zou ik meer animaties willen toevoegen.
